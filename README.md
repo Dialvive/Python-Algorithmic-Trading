@@ -1,6 +1,6 @@
 # Python Algorithmic Trading
 
-This is a scrap-repository that contains some scripts that follow [@nickmccullum](https://github.com/nickmccullum/)'s [Algorithmic Trading Using Python](https://github.com/nickmccullum/algorithmic-trading-python) course. The purpose of this repository for me has been primarily to learn Python & Algorithmic Trading. I've made this repository public for it to help someone that might me interested in it's contents.
+This is a scrap-repository that contains some scripts that follow [@nickmccullum](https://github.com/nickmccullum/)'s [Algorithmic Trading Using Python](https://github.com/nickmccullum/algorithmic-trading-python) course. The purpose of this repository for me has been primarily to learn Python & Algorithmic Trading. I've made this repository public for it to help someone that might be interested in it's contents.
 
 ## Equal Weight S&P500 Trade Recommendations
 
