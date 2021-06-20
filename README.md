@@ -13,7 +13,7 @@ This script allows the user to get a list of S&P500 stocks, their last prices, a
 
 ### Third-party services
 
-- [iexcloud free](iexcloud.io): Mock & real data from the stock market.
+- [iexcloud free](https://iexcloud.io): Mock & real data from the stock market.
 
 ### How to run
 
