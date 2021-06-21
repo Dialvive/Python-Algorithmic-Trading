@@ -24,7 +24,7 @@ This script allows the user to get a list of S&P500 stocks, their last prices, a
 - create `secrets.py` and add a `IEX_CLOUD_API_TOKEN` variable with a valid iexcloud API key,
 - run `python3 equal_weight_S&P_500.py`
 
-## Equal Weight S&P500 Trade Recommendations
+## Quantitative Momentum Trade Recommendations
 
 The goal of this script is to delop a investing strategy that recommends an equal weight portfolio of the 50 stocks with the highest price momentum.
 
